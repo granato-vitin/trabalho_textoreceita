@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    
+}
+main{
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 490px;
+}
+div{
+    text-align: center;
+    background-color: red;
+}
+img{
+    width: 415px;
+}
